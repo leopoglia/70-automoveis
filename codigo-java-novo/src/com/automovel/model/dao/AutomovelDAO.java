@@ -197,6 +197,5 @@ public class AutomovelDAO {
         Statement statement = connection.createStatement();
         statement.execute(sql);
         connection.close();
-        //aaaa
     }
 }
