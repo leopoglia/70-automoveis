@@ -27,8 +27,6 @@ public class Dono extends Pessoa {
 	@Override
 	public String[] menu() {	
 		return new String[] { "(1) LISTAR", "(2) CADASTRAR PRODUTO", "(3) EDITAR PRODUTO",
-				"(4) EXCLUIR PRODUTO", "(5) VENDER PRODUTO", "(6) CADASTRAR FUNCIONÁRIO", "(7) EXCLUIR FUNCIONÁRIO", "(8) VOLTAR"};
+				"(4) EXCLUIR PRODUTO", "(5) VENDER PRODUTO", "(6) CADASTRAR FUNCIONï¿½RIO", "(7) EXCLUIR FUNCIONï¿½RIO", "(8) VOLTAR"};
 	}
-
-
 }
